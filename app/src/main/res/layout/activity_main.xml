@@ -27,7 +27,7 @@
         android:id="@+id/numbers"
         style="@style/CategoryStyle"
         android:background="@color/category_numbers"
-        android:text="HELLO" />
+        android:text="HELLO AAP" />
 
     <TextView
         android:id="@+id/family"
