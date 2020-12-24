@@ -12,6 +12,7 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
+     @string/category_numbers
 -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -26,7 +27,7 @@
         android:id="@+id/numbers"
         style="@style/CategoryStyle"
         android:background="@color/category_numbers"
-        android:text="@string/category_numbers" />
+        android:text="HELLO" />
 
     <TextView
         android:id="@+id/family"
